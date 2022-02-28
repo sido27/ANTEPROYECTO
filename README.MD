@@ -2,7 +2,7 @@
 
 ### El front end consistirá en :
 
-Javascript (con REACT psuedo-framework)
+- Javascript (con REACT psuedo-framework)
 
 - HTML
 - CSS
