@@ -11,13 +11,13 @@ de los viajeros y para asegurarse de que sus curiosidades sean satisfechas.
 
 
 # Finalidad :
-este sitio web ofrece un portal para las personas que tienen ganas de viajar para ver 
+Este sitio web ofrece un portal para las personas que tienen ganas de viajar para ver 
 la belleza de la naturaleza que el mundo tiene que ofrecer y darles a conocer nuevos lugares que de otro modo serían desconocidos.
 
 
 # Objetivo :
 
-el sitio web incluirá diferentes tipos de tours/viajes basados en la ubicación:
+El sitio web incluirá diferentes tipos de tours/viajes basados en la ubicación:
 (local o internacional) y la actividad como el senderismo, la escalada, 
 el descubrimiento de monumentos y ruinas antiguas, 
 los viajes a la selva e incluso las actividades subacuáticas, 
@@ -41,10 +41,10 @@ Una vez que un visitante del sitio web decida participar en un viaje con nosotro
 - mongoDB
 
 ### hardware:
-un ordenador típico
+Un ordenador típico.
 
 # Planificación:
-el software elegido se basó en lo que se prevé que utilice la empresa de prácticas
+El software elegido se basó en lo que se prevé que utilice la empresa de prácticas
 para que la transición entre lenguas no sea tan brusca.
 
 ### tiempo:
