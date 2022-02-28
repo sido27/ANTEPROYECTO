@@ -4,8 +4,8 @@
 
 Javascript (con REACT psuedo-framework)
 
-- First item HTML
-- Second item CSS
+- HTML
+ CSS
 
 ### El back end consistirá en :
 
