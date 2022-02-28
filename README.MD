@@ -5,9 +5,9 @@
 Javascript (con REACT psuedo-framework)
 
 -HTML
- CSS
+-CSS
 
 ### El back end consistirá en :
 
- nodeJS
- mongoDB
+- First item nodeJS
+- Second item mongoDB
