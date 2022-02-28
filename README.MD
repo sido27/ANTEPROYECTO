@@ -24,7 +24,7 @@ los viajes a la selva e incluso las actividades subacuáticas,
 todos los cuales son calificados por los viajeros que también pueden subir imágenes de su viaje y compartirlo con el mundo, 
 así como comentar sus pensamientos para que otros los lean.
 
-Una vez que un visitante del sitio web decida participar en un viaje con nosotros, se le pedirá que se registre para poder reservar su viaje.
+Una vez que un visitante del sitio web decida participar en un viaje con nosotros, se le pedirá que se autentique para poder reservar su viaje.
 
 
 # Medios hardware y software a utilizar
