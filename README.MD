@@ -2,9 +2,6 @@
 
 # Autor : Asid kouki (Sido) 
 
-
-# Título : Spain Travels 
-
 # Introdución : 
 Spain Travels será un wesbite para una agencia de viajes/turismo
 está dirigido a los entusiastas de los viajes en España que quieren descubrir 
