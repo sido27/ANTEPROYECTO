@@ -45,7 +45,7 @@ Un ordenador típico.
 
 # Planificación:
 El software elegido se basó en lo que se prevé que utilice la empresa de prácticas
-para que la transición entre lenguas no sea tan brusca.
+para que la transición entre lengujes no sea tan brusca.
 
 ### tiempo:
 Inicialmente se estima que el proyecto se realizará en unos 3 meses, más o menos.
